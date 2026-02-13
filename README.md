@@ -1,8 +1,8 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-- 🏦 CS Student @ ACS UNSTPB 
-- 💻 Focusing on Full Stack Development
+- CS Student @ ACS UNSTPB
+- Programmer Analyst @ Cognizant
+- Focusing on Android Development
 - 💻 I’m passionate about the internet and crafting new applications
-- 🌐 Open to Internships or Junior Roles
 - 🧑‍💻 Tech I work on and currently learning:
 <p align="center">
       <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="GIT" width="55" height="55"/> 
